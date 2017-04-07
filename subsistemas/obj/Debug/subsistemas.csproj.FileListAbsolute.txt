@@ -1,0 +1,6 @@
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\bin\Debug\subsistemas.exe.config
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\bin\Debug\subsistemas.exe
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\bin\Debug\subsistemas.pdb
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\obj\Debug\subsistemas.csprojResolveAssemblyReference.cache
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\obj\Debug\subsistemas.exe
+c:\users\kriste\documents\visual studio 2012\Projects\subsistemas\subsistemas\obj\Debug\subsistemas.pdb
